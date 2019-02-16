@@ -15,4 +15,4 @@ Ubuntu 18.04を使っている前提とします。
 5. Android
 6. Webアプリケーション
 7. Akka
-8. [@Scala.js](./scala-js)
+8. [Scala.js](./scala-js)
