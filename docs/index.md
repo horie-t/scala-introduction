@@ -8,11 +8,10 @@ Ubuntu 18.04を使っている前提とします。
 
 ## 目次
 
-1. 開発ツールのインストール
-2. Hello, world!
-3. sbtの使い方
-4. GUI
-5. Android
-6. Webアプリケーション
-7. Akka
-8. [Scala.js](./scala-js)
+1. [開発ツールのインストール](./install)
+2. [Hello, world!](./hello_world)
+3. GUI
+4. Android
+5. Webアプリケーション
+6. Akka
+7. [Scala.js](./scala-js)
