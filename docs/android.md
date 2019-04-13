@@ -29,6 +29,7 @@ studio.sh
 export ANDROID_HOME=$HOME/Android/Sdk
 export PATH=$PATH:$ANDROID_HOME/tools/bin:$ANDROID_HOME/platform-tools
 ```
+
 ## Androidのプロジェクトを作成する
 
 1. Androidアプリのプロジェクトのディレクトリを作成します。  
