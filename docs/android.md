@@ -51,4 +51,4 @@ sbt "gen-android com.example.hello HelloWorld" android:run
 
 以下のような画面が、Android端末に表示されます。
 
-![Hello Android](./images/HelloAndroid.png "Hello, Android")
+<img src="./images/HelloAndroid.png" width="480px">
