@@ -10,8 +10,8 @@ Ubuntu 18.04を使っている前提とします。
 
 1. [開発ツールのインストール](./install)
 2. [Hello, world!](./hello_world)
-3. [GUI(ScalaFX)](./scalafx)
-4. Android
+3. [GUI(ScalaFX)アプリケーションの作成](./scalafx)
+4. [Androidアプリケーションの作成](./android)
 5. Webアプリケーション
 6. Akka
 7. [Scala.js](./scala-js)
