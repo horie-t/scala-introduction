@@ -2,6 +2,8 @@
 
 Scalaの入門的な解説です。
 
+現在は、Scalaで、各種アプリケーションを構築する時の、セットアップ手順書になっています。
+
 ## 前提条件
 
 Ubuntu 18.04を使っている前提とします。
@@ -10,8 +12,7 @@ Ubuntu 18.04を使っている前提とします。
 
 1. [開発ツールのインストール](./install)
 2. [Hello, world!](./hello_world)
-3. [GUI(ScalaFX)アプリケーションの作成](./scalafx)
-4. [Androidアプリケーションの作成](./android)
-5. Webアプリケーション
-6. Akka
-7. [Scala.js](./scala-js)
+3. [GUI(ScalaFX)アプリケーション](./scalafx)
+4. [Androidアプリケーション](./android)
+5. [Webアプリケーション(PlayFramework)](./play)
+6. [Scala.js](./scala-js)
